@@ -8,6 +8,7 @@ function App() {
       <h1>Welcome to my first React App</h1>
       <FristComponent />
       <Toggle />
+      <h2>Hello</h2>
     </div>
   );
 }
