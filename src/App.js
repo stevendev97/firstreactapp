@@ -9,6 +9,7 @@ function App() {
       <FristComponent />
       <Toggle />
       <h2>Hello</h2>
+      <h3>yo!</h3>
     </div>
   );
 }
